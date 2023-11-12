@@ -3,3 +3,5 @@ test.csv
 train.csv
 /quora-question-pairs/
 ./quora-question-pairs/*
+model.pkl
+cv.pkl
