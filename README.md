@@ -69,8 +69,8 @@ Follow these steps to run the project locally:
 
 0. Clone the repository:
    ```bash
-   git clone https://github.com/srikharshashi/<reponame>
-   cd <reponame>
+   git clone https://github.com/srikharshashi/quora_duplicate_pair_classification
+   cd quora_duplicate_pair_classification
    ```
 
 1.Install dependencies:
